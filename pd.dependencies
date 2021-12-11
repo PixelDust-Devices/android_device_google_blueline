@@ -20,7 +20,7 @@
     {
         "target_path":  "vendor/google",
         "repository":   "android_vendor_google",
-        "remote":       "pd12",
+        "remote":       "pdd",
         "revision":     "12"
     }
 ]
