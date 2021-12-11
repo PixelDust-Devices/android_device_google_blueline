@@ -22,11 +22,5 @@
         "repository":   "android_vendor_google",
         "remote":       "pd12",
         "revision":     "12"
-    },
-    {
-        "target_path":  "vendor/pixelgapps",
-        "repository":   "pixeldust-eleven/android_vendor_pixelgapps",
-        "remote":       "gitlab",
-        "branch":       "12"
     }
 ]
