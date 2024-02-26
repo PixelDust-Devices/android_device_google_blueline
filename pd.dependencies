@@ -3,19 +3,19 @@
         "target_path":  "device/google/crosshatch",
         "repository":   "android_device_google_crosshatch",
         "remote":       "pdd",
-        "revision":     "13"
+        "revision":     "14"
     },
     {
         "target_path":  "device/google/crosshatch-sepolicy",
         "repository":   "android_device_google_crosshatch-sepolicy",
         "remote":       "pdd",
-        "revision":     "13"
+        "revision":     "14"
     },
     {
-        "target_path":  "device/google/crosshatch-kernel",
-        "repository":   "android_device_google_crosshatch-kernel",
-        "remote":       "pdd",
-        "revision":     "13"
+        "target_path":  "kernel/google/msm-4.9",
+        "repository":   "LineageOS/android_kernel_google_msm-4.9",
+        "remote":       "github",
+        "revision":     "lineage-21"
     },
     {
          "target_path": "packages/apps/GoogleCamera",
@@ -27,6 +27,6 @@
         "target_path":  "vendor/google/blueline",
         "repository":   "android_vendor_google_blueline",
         "remote":       "pdd",
-        "revision":     "13"
+        "revision":     "14"
     }
 ]
